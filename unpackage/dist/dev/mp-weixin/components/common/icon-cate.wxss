@@ -1,0 +1,10 @@
+
+.icon-cate{
+	width:187.5rpx;
+	height:187.5rpx;
+	line-height: 1;
+	display:-webkit-inline-box!important;
+	display:-webkit-inline-flex!important;
+	display:inline-flex!important;
+}
+

@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "media-list": "/components/common/media-list"
+  }
+}
